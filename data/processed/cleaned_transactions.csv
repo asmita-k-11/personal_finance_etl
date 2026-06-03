@@ -1,0 +1,131 @@
+transaction_id,date,description,amount,transaction_type,category,location,account,source_month,date_raw,amount_raw,source_file
+TXN000079,2026-02-05,Walmart Supercenter,-224.78,debit,Groceries,"Dallas, Tx",Checking,February 2026,2026-02-05,-$224.78,february_2026.csv
+TXN000082,2026-02-27,Electric Bill - Oncor,-185.61,debit,Utilities,Online / Unknown,Savings,February 2026,"February 27, 2026",($185.61),february_2026.csv
+TXN000050,2026-02-12,Netflix Subscription,-15.49,debit,Subscriptions,Online / Unknown,Checking,February 2026,"February 12, 2026",($15.49),february_2026.csv
+TXN000059,2026-02-08,Dominos Pizza,-44.21,debit,Dining,"Houston, Tx",Checking,February 2026,2026-02-08,-$44.21,february_2026.csv
+TXN000076,2026-02-03,Lyft Ride,-35.28,debit,Transport,Online / Unknown,Checking,February 2026,2026-02-03,-$35.28,february_2026.csv
+TXN000072,2026-02-22,Amazon Mktplace Pmts,-138.05,debit,Shopping,Online / Unknown,Savings,February 2026,2026-02-22,-138.05,february_2026.csv
+TXN000052,2026-02-04,Chipotle Mexican Grill,-11.81,debit,Dining,"Austin, Tx",Savings,February 2026,"February 4, 2026",-11.81,february_2026.csv
+TXN000073,2026-02-13,Walmart Supercenter,-86.41,debit,Groceries,Online / Unknown,Savings,February 2026,2026-02-13,-86.41,february_2026.csv
+TXN000070,2026-02-22,Starbucks Store 14122,-11.78,debit,Dining,Online / Unknown,Savings,February 2026,22/02/2026,($11.78),february_2026.csv
+TXN000061,2026-02-09,Dominos Pizza,-37.98,debit,Dining,"Houston, Tx",Savings,February 2026,2026-02-09,-$37.98,february_2026.csv
+TXN000063,2026-02-08,Walmart #4821,-122.21,debit,Groceries,Online / Unknown,Checking,February 2026,08/02/2026,($122.21),february_2026.csv
+TXN000054,2026-02-27,Unknown,-15.49,debit,Uncategorised,Online / Unknown,Savings,February 2026,27/02/2026,-15.49,february_2026.csv
+TXN000062,2026-02-08,Shell Gas Station,-69.91,debit,Transport,"Dallas, Tx",Checking,February 2026,08/02/2026,($69.91),february_2026.csv
+TXN000058,2026-02-22,Lyft Ride,-35.01,debit,Transport,Online / Unknown,Checking,February 2026,22/02/2026,($35.01),february_2026.csv
+TXN000065,2026-02-01,Unknown,-13.59,debit,Uncategorised,"Austin, Tx",Savings,February 2026,01/02/2026,-13.59,february_2026.csv
+TXN000055,2026-02-06,Electric Bill - Oncor,-137.24,debit,Utilities,Online / Unknown,Checking,February 2026,06/02/2026,-$137.24,february_2026.csv
+TXN000078,2026-02-21,Shell Gas Station,-64.51,debit,Transport,"Dallas, Tx",Checking,February 2026,21/02/2026,($64.51),february_2026.csv
+TXN000046,2026-02-03,Best Buy,-411.56,debit,Shopping,Online / Unknown,Savings,February 2026,"February 3, 2026",($411.56),february_2026.csv
+TXN000071,2026-02-11,Ebay Purchase,-130.04,debit,Shopping,Online / Unknown,Savings,February 2026,"February 11, 2026",-$130.04,february_2026.csv
+TXN000051,2026-02-22,Spotify Usa,-9.99,debit,Subscriptions,Online / Unknown,Checking,February 2026,2026-02-22,($9.99),february_2026.csv
+TXN000057,2026-02-14,Mcdonald'S,-5.84,debit,Dining,"Dallas, Tx",Checking,February 2026,14/02/2026,($5.84),february_2026.csv
+TXN000047,2026-02-07,Amazon Prime Membership,-14.99,debit,Subscriptions,Online / Unknown,Savings,February 2026,07/02/2026,-14.99,february_2026.csv
+TXN000083,2026-02-25,Lyft Ride,-42.79,debit,Transport,Online / Unknown,Checking,February 2026,25/02/2026,($42.79),february_2026.csv
+TXN000067,2026-02-20,Tax Refund,225.17,credit,Income,Online / Unknown,Savings,February 2026,"February 20, 2026",225.17,february_2026.csv
+TXN000048,2026-02-15,Amazon Prime Membership,-14.99,debit,Subscriptions,Online / Unknown,Checking,February 2026,2026-02-15,($14.99),february_2026.csv
+TXN000075,2026-02-22,Kroger Grocery,-67.57,debit,Groceries,"San Antonio, Tx",Savings,February 2026,"February 22, 2026",-67.57,february_2026.csv
+TXN000081,2026-02-22,Interest Payment,4.94,credit,Income,Online / Unknown,Savings,February 2026,"February 22, 2026",$4.94,february_2026.csv
+TXN000049,2026-02-03,Shell Oil 57444006200,-60.35,debit,Transport,Online / Unknown,Checking,February 2026,2026-02-03,-$60.35,february_2026.csv
+TXN000080,2026-02-26,Interest Payment,2.38,credit,Income,Online / Unknown,Savings,February 2026,"February 26, 2026",$2.38,february_2026.csv
+TXN000069,2026-02-12,At&T Phone Bill,-59.55,debit,Utilities,Online / Unknown,Savings,February 2026,"February 12, 2026",-59.55,february_2026.csv
+TXN000077,2026-02-02,Lyft Ride,-49.28,debit,Transport,Online / Unknown,Savings,February 2026,"February 2, 2026",($49.28),february_2026.csv
+TXN000056,2026-02-03,Unknown,-15.64,debit,Uncategorised,"Austin, Tx",Checking,February 2026,03/02/2026,-15.64,february_2026.csv
+TXN000068,2026-02-01,Interest Payment,4.64,credit,Income,Online / Unknown,Checking,February 2026,"February 1, 2026",$4.64,february_2026.csv
+TXN000066,2026-02-02,Starbucks Coffee #3421,-12.55,debit,Dining,Online / Unknown,Savings,February 2026,02/02/2026,($12.55),february_2026.csv
+TXN000053,2026-02-07,Exxonmobil,-47.8,debit,Transport,"Houston, Tx",Savings,February 2026,07/02/2026,-$47.80,february_2026.csv
+TXN000060,2026-02-24,Adobe Creative Cloud,-54.99,debit,Subscriptions,Online / Unknown,Checking,February 2026,24/02/2026,-54.99,february_2026.csv
+TXN000074,2026-02-15,Electric Bill - Oncor,-121.9,debit,Utilities,Online / Unknown,Checking,February 2026,2026-02-15,($121.90),february_2026.csv
+TXN000040,2026-01-29,Target #0095,-23.93,debit,Groceries,"Austin, Tx",Savings,January 2026,2026-01-29,($23.93),january_2026.csv
+TXN000026,2026-01-08,Kroger Grocery,-37.85,debit,Groceries,"San Antonio, Tx",Checking,January 2026,08/01/2026,-37.85,january_2026.csv
+TXN000027,2026-01-05,Payroll Deposit - Acme Corp,3430.9,credit,Income,Online / Unknown,Savings,January 2026,2026-01-05,"$3,430.90",january_2026.csv
+TXN000044,2026-01-02,Tax Refund,202.07,credit,Income,Online / Unknown,Checking,January 2026,2026-01-02,202.07,january_2026.csv
+TXN000036,2026-01-02,Ebay Purchase,-135.16,debit,Shopping,Online / Unknown,Checking,January 2026,2026-01-02,-$135.16,january_2026.csv
+TXN000042,2026-01-05,Shell Gas Station,-41.32,debit,Transport,"Dallas, Tx",Checking,January 2026,2026-01-05,-41.32,january_2026.csv
+TXN000005,2026-01-15,Netflix.Com,-15.49,debit,Subscriptions,Online / Unknown,Savings,January 2026,2026-01-15,-15.49,january_2026.csv
+TXN000013,2026-01-06,Internet - Spectrum,-61.37,debit,Utilities,Online / Unknown,Checking,January 2026,"January 6, 2026",-61.37,january_2026.csv
+TXN000009,2026-01-27,Amazon.Com Purchase,-206.3,debit,Shopping,Online / Unknown,Checking,January 2026,"January 27, 2026",-$206.30,january_2026.csv
+TXN000004,2026-01-18,Shell Gas Station,-64.38,debit,Transport,"Dallas, Tx",Checking,January 2026,"January 18, 2026",($64.38),january_2026.csv
+TXN000007,2026-01-04,Unknown,-16.46,debit,Uncategorised,Online / Unknown,Savings,January 2026,"January 4, 2026",-$16.46,january_2026.csv
+TXN000025,2026-01-16,Walmart #4821,-29.02,debit,Groceries,"Dallas, Tx",Checking,January 2026,16/01/2026,-$29.02,january_2026.csv
+TXN000033,2026-01-07,Unknown,-19.47,debit,Uncategorised,Online / Unknown,Checking,January 2026,"January 7, 2026",($19.47),january_2026.csv
+TXN000020,2026-01-13,Internet - Spectrum,-65.86,debit,Utilities,Online / Unknown,Checking,January 2026,"January 13, 2026",-65.86,january_2026.csv
+TXN000018,2026-01-08,Mcdonald'S,-15.19,debit,Dining,"Dallas, Tx",Checking,January 2026,2026-01-08,-$15.19,january_2026.csv
+TXN000014,2026-01-22,Amazon Prime Membership,-14.99,debit,Subscriptions,Online / Unknown,Savings,January 2026,2026-01-22,-$14.99,january_2026.csv
+TXN000043,2026-01-24,Unknown,-14.99,debit,Uncategorised,Online / Unknown,Checking,January 2026,"January 24, 2026",-14.99,january_2026.csv
+TXN000016,2026-01-21,Zelle Transfer Received,209.9,credit,Income,Online / Unknown,Checking,January 2026,"January 21, 2026",209.90,january_2026.csv
+TXN000010,2026-01-25,Netflix Subscription,-15.49,debit,Subscriptions,Online / Unknown,Savings,January 2026,2026-01-25,($15.49),january_2026.csv
+TXN000017,2026-01-24,Exxonmobil,-61.09,debit,Transport,"Houston, Tx",Savings,January 2026,24/01/2026,($61.09),january_2026.csv
+TXN000038,2026-01-28,Whole Foods Market,-105.33,debit,Groceries,"Houston, Tx",Checking,January 2026,"January 28, 2026",-$105.33,january_2026.csv
+TXN000032,2026-01-28,Adobe Creative Cloud,-54.99,debit,Subscriptions,Online / Unknown,Savings,January 2026,2026-01-28,-54.99,january_2026.csv
+TXN000028,2026-01-31,Shell Oil 57444006200,-85.73,debit,Transport,Online / Unknown,Savings,January 2026,"January 31, 2026",-$85.73,january_2026.csv
+TXN000001,2026-01-21,Starbucks Store 14122,-3.79,debit,Dining,"Austin, Tx",Checking,January 2026,21/01/2026,-$3.79,january_2026.csv
+TXN000031,2026-01-01,Whole Foods Market,-150.33,debit,Groceries,"Houston, Tx",Checking,January 2026,2026-01-01,-$150.33,january_2026.csv
+TXN000030,2026-01-08,Unknown,-87.47,debit,Uncategorised,"Houston, Tx",Checking,January 2026,"January 8, 2026",-$87.47,january_2026.csv
+TXN000006,2026-01-11,Netflix.Com,-15.49,debit,Subscriptions,Online / Unknown,Savings,January 2026,11/01/2026,-$15.49,january_2026.csv
+TXN000012,2026-01-23,Whole Foods Market,-133.55,debit,Groceries,Online / Unknown,Checking,January 2026,2026-01-23,-133.55,january_2026.csv
+TXN000034,2026-01-26,Payroll Deposit - Acme Corp,3249.75,credit,Income,Online / Unknown,Savings,January 2026,2026-01-26,"$3,249.75",january_2026.csv
+TXN000002,2026-01-24,Starbucks Coffee #3421,-13.64,debit,Dining,"Dallas, Tx",Savings,January 2026,"January 24, 2026",-13.64,january_2026.csv
+TXN000022,2026-01-06,Internet - Spectrum,-50.09,debit,Utilities,Online / Unknown,Checking,January 2026,"January 6, 2026",($50.09),january_2026.csv
+TXN000003,2026-01-02,Walmart #4821,-25.93,debit,Groceries,"Dallas, Tx",Checking,January 2026,2026-01-02,-25.93,january_2026.csv
+TXN000035,2026-01-14,Best Buy,-306.86,debit,Shopping,Online / Unknown,Checking,January 2026,"January 14, 2026",-306.86,january_2026.csv
+TXN000024,2026-01-05,Amazon.Com Purchase,-269.25,debit,Shopping,Online / Unknown,Savings,January 2026,"January 5, 2026",-$269.25,january_2026.csv
+TXN000037,2026-01-18,Electric Bill - Oncor,-79.63,debit,Utilities,Online / Unknown,Checking,January 2026,2026-01-18,($79.63),january_2026.csv
+TXN000011,2026-01-15,Unknown,-65.3,debit,Uncategorised,Online / Unknown,Savings,January 2026,15/01/2026,-65.30,january_2026.csv
+TXN000023,2026-01-17,Starbucks Coffee #3421,-16.25,debit,Dining,"Dallas, Tx",Checking,January 2026,17/01/2026,-16.25,january_2026.csv
+TXN000019,2026-01-21,Dominos Pizza,-38.14,debit,Dining,"Houston, Tx",Savings,January 2026,21/01/2026,-$38.14,january_2026.csv
+TXN000045,2026-01-13,Starbucks Store 14122,-14.33,debit,Dining,"Austin, Tx",Checking,January 2026,"January 13, 2026",-14.33,january_2026.csv
+TXN000021,2026-01-22,Netflix.Com,-15.49,debit,Subscriptions,Online / Unknown,Savings,January 2026,22/01/2026,($15.49),january_2026.csv
+TXN000008,2026-01-18,Starbucks Store 14122,-14.69,debit,Dining,"Austin, Tx",Savings,January 2026,18/01/2026,-14.69,january_2026.csv
+TXN000015,2026-01-13,Netflix.Com,-15.49,debit,Subscriptions,Online / Unknown,Checking,January 2026,"January 13, 2026",($15.49),january_2026.csv
+TXN000029,2026-01-13,Amazon.Com Purchase,-158.95,debit,Shopping,Online / Unknown,Checking,January 2026,"January 13, 2026",-$158.95,january_2026.csv
+TXN000039,2026-01-03,Lyft Ride,-12.48,debit,Transport,Online / Unknown,Savings,January 2026,03/01/2026,-$12.48,january_2026.csv
+TXN000097,2026-03-05,Payroll Deposit - Acme Corp,3070.3,credit,Income,Online / Unknown,Savings,March 2026,"March 5, 2026","$3,070.30",march_2026.csv
+TXN000123,2026-03-09,Unknown,-48.56,debit,Uncategorised,"San Antonio, Tx",Checking,March 2026,2026-03-09,-$48.56,march_2026.csv
+TXN000114,2026-03-24,Payroll Deposit - Acme Corp,2559.45,credit,Income,Online / Unknown,Checking,March 2026,"March 24, 2026","2,559.45",march_2026.csv
+TXN000129,2026-03-15,Starbucks Store 14122,-8.89,debit,Dining,"Austin, Tx",Savings,March 2026,15/03/2026,($8.89),march_2026.csv
+TXN000101,2026-03-26,Target Store Purchase,-117.22,debit,Groceries,"Austin, Tx",Checking,March 2026,26/03/2026,($117.22),march_2026.csv
+TXN000132,2026-03-25,Netflix.Com,-15.49,debit,Subscriptions,Online / Unknown,Savings,March 2026,2026-03-25,-15.49,march_2026.csv
+TXN000110,2026-03-15,Walmart #4821,-25.82,debit,Groceries,"Dallas, Tx",Checking,March 2026,2026-03-15,-25.82,march_2026.csv
+TXN000109,2026-03-24,Best Buy,-318.72,debit,Shopping,"Dallas, Tx",Savings,March 2026,2026-03-24,($318.72),march_2026.csv
+TXN000116,2026-03-23,Mcdonald'S,-10.49,debit,Dining,"Dallas, Tx",Checking,March 2026,2026-03-23,($10.49),march_2026.csv
+TXN000103,2026-03-31,Amazon.Com Purchase,-226.1,debit,Shopping,Online / Unknown,Savings,March 2026,31/03/2026,-$226.10,march_2026.csv
+TXN000096,2026-03-31,Lyft Ride,-13.97,debit,Transport,Online / Unknown,Checking,March 2026,2026-03-31,-$13.97,march_2026.csv
+TXN000088,2026-03-28,Amazon Mktplace Pmts,-99.58,debit,Shopping,Online / Unknown,Savings,March 2026,28/03/2026,($99.58),march_2026.csv
+TXN000121,2026-03-25,Interest Payment,1.96,credit,Income,Online / Unknown,Savings,March 2026,25/03/2026,$1.96,march_2026.csv
+TXN000092,2026-03-03,At&T Phone Bill,-63.82,debit,Utilities,Online / Unknown,Savings,March 2026,03/03/2026,-$63.82,march_2026.csv
+TXN000087,2026-03-14,Target #0095,-28.79,debit,Groceries,"Austin, Tx",Checking,March 2026,14/03/2026,-28.79,march_2026.csv
+TXN000089,2026-03-13,Adobe Creative Cloud,-54.99,debit,Subscriptions,Online / Unknown,Savings,March 2026,13/03/2026,-$54.99,march_2026.csv
+TXN000125,2026-03-08,Netflix Subscription,-15.49,debit,Subscriptions,Online / Unknown,Checking,March 2026,"March 8, 2026",-$15.49,march_2026.csv
+TXN000130,2026-03-17,Zelle Transfer Received,230.12,credit,Income,Online / Unknown,Savings,March 2026,"March 17, 2026",$230.12,march_2026.csv
+TXN000131,2026-03-01,Kroger Grocery,-59.34,debit,Groceries,"San Antonio, Tx",Checking,March 2026,"March 1, 2026",-59.34,march_2026.csv
+TXN000099,2026-03-30,Spotify Usa,-9.99,debit,Subscriptions,Online / Unknown,Checking,March 2026,30/03/2026,-9.99,march_2026.csv
+TXN000093,2026-03-13,Amazon Prime Membership,-14.99,debit,Subscriptions,Online / Unknown,Savings,March 2026,13/03/2026,($14.99),march_2026.csv
+TXN000100,2026-03-03,Lyft Ride,-9.59,debit,Transport,Online / Unknown,Checking,March 2026,03/03/2026,-9.59,march_2026.csv
+TXN000108,2026-03-09,Netflix.Com,-15.49,debit,Subscriptions,Online / Unknown,Checking,March 2026,"March 9, 2026",-$15.49,march_2026.csv
+TXN000118,2026-03-11,The Cheesecake Factory,-87.93,debit,Dining,"Dallas, Tx",Checking,March 2026,11/03/2026,-$87.93,march_2026.csv
+TXN000115,2026-03-27,Shell Gas Station,-41.29,debit,Transport,"Dallas, Tx",Checking,March 2026,27/03/2026,($41.29),march_2026.csv
+TXN000084,2026-03-15,Whole Foods Market,-151.3,debit,Groceries,"Houston, Tx",Savings,March 2026,2026-03-15,($151.30),march_2026.csv
+TXN000128,2026-03-03,Target #0095,-24.08,debit,Groceries,"Austin, Tx",Savings,March 2026,03/03/2026,-24.08,march_2026.csv
+TXN000111,2026-03-10,Amazon.Com Purchase,-170.91,debit,Shopping,Online / Unknown,Savings,March 2026,"March 10, 2026",($170.91),march_2026.csv
+TXN000117,2026-03-21,Zelle Transfer Received,69.24,credit,Income,Online / Unknown,Savings,March 2026,2026-03-21,$69.24,march_2026.csv
+TXN000113,2026-03-11,Starbucks Store 14122,-12.04,debit,Dining,"Austin, Tx",Checking,March 2026,"March 11, 2026",-$12.04,march_2026.csv
+TXN000095,2026-03-31,Hulu,-10.23,debit,Subscriptions,Online / Unknown,Checking,March 2026,2026-03-31,-$10.23,march_2026.csv
+TXN000120,2026-03-03,Lyft Ride,-10.33,debit,Transport,Online / Unknown,Checking,March 2026,03/03/2026,-10.33,march_2026.csv
+TXN000085,2026-03-29,Kroger Grocery,-45.76,debit,Groceries,"San Antonio, Tx",Checking,March 2026,2026-03-29,-45.76,march_2026.csv
+TXN000105,2026-03-14,Netflix.Com,-15.49,debit,Subscriptions,Online / Unknown,Savings,March 2026,2026-03-14,($15.49),march_2026.csv
+TXN000086,2026-03-23,Unknown,-33.85,debit,Uncategorised,"Austin, Tx",Savings,March 2026,23/03/2026,-33.85,march_2026.csv
+TXN000127,2026-03-14,Starbucks Store 14122,-9.76,debit,Dining,Online / Unknown,Checking,March 2026,"March 14, 2026",($9.76),march_2026.csv
+TXN000119,2026-03-13,Zelle Transfer Received,55.56,credit,Income,Online / Unknown,Savings,March 2026,"March 13, 2026",55.56,march_2026.csv
+TXN000107,2026-03-16,Amazon Prime Membership,-14.99,debit,Subscriptions,Online / Unknown,Savings,March 2026,2026-03-16,($14.99),march_2026.csv
+TXN000124,2026-03-01,Best Buy,-297.78,debit,Shopping,"Dallas, Tx",Checking,March 2026,"March 1, 2026",($297.78),march_2026.csv
+TXN000094,2026-03-25,Best Buy,-188.75,debit,Shopping,"Dallas, Tx",Checking,March 2026,2026-03-25,-$188.75,march_2026.csv
+TXN000106,2026-03-08,Internet - Spectrum,-67.09,debit,Utilities,Online / Unknown,Checking,March 2026,"March 8, 2026",($67.09),march_2026.csv
+TXN000102,2026-03-17,Adobe Creative Cloud,-54.99,debit,Subscriptions,Online / Unknown,Savings,March 2026,17/03/2026,-$54.99,march_2026.csv
+TXN000133,2026-03-30,Netflix.Com,-15.49,debit,Subscriptions,Online / Unknown,Savings,March 2026,"March 30, 2026",-15.49,march_2026.csv
+TXN000104,2026-03-06,Interest Payment,4.83,credit,Income,Online / Unknown,Savings,March 2026,06/03/2026,$4.83,march_2026.csv
+TXN000091,2026-03-30,Mcdonald'S,-24.61,debit,Dining,"Dallas, Tx",Checking,March 2026,"March 30, 2026",($24.61),march_2026.csv
+TXN000126,2026-03-30,Unknown,-63.33,debit,Uncategorised,"Houston, Tx",Checking,March 2026,"March 30, 2026",-63.33,march_2026.csv
+TXN000098,2026-03-06,Starbucks Store 14122,-12.44,debit,Dining,"Austin, Tx",Checking,March 2026,2026-03-06,-$12.44,march_2026.csv
+TXN000112,2026-03-12,Internet - Spectrum,-58.12,debit,Utilities,Online / Unknown,Checking,March 2026,12/03/2026,-$58.12,march_2026.csv
+TXN000122,2026-03-19,Target #0095,-75.11,debit,Groceries,Online / Unknown,Checking,March 2026,"March 19, 2026",-$75.11,march_2026.csv
