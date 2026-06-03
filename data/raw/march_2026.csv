@@ -1,0 +1,51 @@
+transaction_id,date,description,amount,location,account
+TXN000097,"March 5, 2026",Payroll Deposit - ACME Corp,"$3,070.30",,Savings
+TXN000123,2026-03-09,,-$48.56,"San Antonio, TX",Checking
+TXN000114,"March 24, 2026",Payroll Deposit - Acme Corp,"2,559.45",,Checking
+TXN000129,15/03/2026,Starbucks Store 14122,($8.89),"Austin, TX",Savings
+TXN000101,26/03/2026,Target Store Purchase,($117.22),"Austin, TX",Checking
+TXN000132,2026-03-25,NETFLIX.COM,-15.49,,Savings
+TXN000110,2026-03-15,WALMART #4821,-25.82,"Dallas, TX",Checking
+TXN000109,2026-03-24,Best Buy,($318.72),"Dallas, TX",Savings
+TXN000116,2026-03-23,Mcdonald'S,($10.49),"Dallas, TX",Checking
+TXN000103,31/03/2026,Amazon.Com Purchase,-$226.10,,Savings
+TXN000096,2026-03-31,Lyft Ride,-$13.97,,Checking
+TXN000088,28/03/2026,AMAZON MKTPLACE PMTS,($99.58),,Savings
+TXN000121,25/03/2026,INTEREST PAYMENT,$1.96,,Savings
+TXN000092,03/03/2026,AT&T Phone Bill,-$63.82,,Savings
+TXN000087,14/03/2026,TARGET  #0095  ,-28.79,"Austin, TX",Checking
+TXN000089,13/03/2026,Adobe Creative Cloud,-$54.99,,Savings
+TXN000125,"March 8, 2026",NETFLIX SUBSCRIPTION,-$15.49,,Checking
+TXN000130,"March 17, 2026",Zelle Transfer Received,$230.12,,Savings
+TXN000131,"March 1, 2026",Kroger Grocery,-59.34,"San Antonio, TX",Checking
+TXN000099,30/03/2026,SPOTIFY USA,-9.99,,Checking
+TXN000093,13/03/2026,AMAZON PRIME MEMBERSHIP,($14.99),,Savings
+TXN000100,03/03/2026,Lyft Ride,-9.59,,Checking
+TXN000108,"March 9, 2026",Netflix.com,-$15.49,,Checking
+TXN000118,11/03/2026,THE CHEESECAKE FACTORY,-$87.93,"Dallas, TX",Checking
+TXN000115,27/03/2026,Shell Gas Station,($41.29),"Dallas, TX",Checking
+TXN000084,2026-03-15,WHOLE FOODS MARKET,($151.30),"Houston, TX",Savings
+TXN000128,03/03/2026,Target  #0095  ,-24.08,"Austin, TX",Savings
+TXN000111,"March 10, 2026",AMAZON.COM PURCHASE,($170.91),,Savings
+TXN000117,2026-03-21,Zelle Transfer Received,$69.24,,Savings
+TXN000089,18/03/2026,,($29.41),,Checking
+TXN000113,"March 11, 2026",STARBUCKS STORE 14122,-$12.04,"Austin, TX",Checking
+TXN000095,2026-03-31,Hulu,-$10.23,,Checking
+TXN000120,03/03/2026,Lyft Ride,-10.33,,Checking
+TXN000085,2026-03-29,KROGER GROCERY,-45.76,"San Antonio, TX",Checking
+TXN000105,2026-03-14,Netflix.com,($15.49),,Savings
+TXN000086,23/03/2026,,-33.85,"Austin, TX",Savings
+TXN000127,"March 14, 2026",STARBUCKS STORE 14122,($9.76),,Checking
+TXN000119,"March 13, 2026",Zelle Transfer Received,55.56,,Savings
+TXN000107,2026-03-16,AMAZON PRIME MEMBERSHIP,($14.99),,Savings
+TXN000124,"March 1, 2026",BEST BUY,($297.78),"Dallas, TX",Checking
+TXN000094,2026-03-25,BEST BUY,-$188.75,"Dallas, TX",Checking
+TXN000106,"March 8, 2026",INTERNET - SPECTRUM,($67.09),,Checking
+TXN000102,17/03/2026,ADOBE CREATIVE CLOUD,-$54.99,,Savings
+TXN000133,"March 30, 2026",NETFLIX.COM,-15.49,,Savings
+TXN000104,06/03/2026,Interest Payment,$4.83,,Savings
+TXN000091,"March 30, 2026",McDonald's,($24.61),"Dallas, TX",Checking
+TXN000126,"March 30, 2026",,-63.33,"Houston, TX",Checking
+TXN000098,2026-03-06,STARBUCKS STORE 14122,-$12.44,"Austin, TX",Checking
+TXN000112,12/03/2026,Internet - Spectrum,-$58.12,,Checking
+TXN000122,"March 19, 2026",TARGET  #0095  ,-$75.11,,Checking

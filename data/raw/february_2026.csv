@@ -1,0 +1,39 @@
+transaction_id,date,description,amount,location,account
+TXN000079,2026-02-05,WALMART SUPERCENTER,-$224.78,"Dallas, TX",Checking
+TXN000082,"February 27, 2026",ELECTRIC BILL - ONCOR,($185.61),,Savings
+TXN000050,"February 12, 2026",Netflix Subscription,($15.49),,Checking
+TXN000059,2026-02-08,DOMINOS PIZZA,-$44.21,"Houston, TX",Checking
+TXN000076,2026-02-03,Lyft Ride,-$35.28,,Checking
+TXN000072,2026-02-22,Amazon Mktplace Pmts,-138.05,,Savings
+TXN000052,"February 4, 2026",Chipotle Mexican Grill,-11.81,"Austin, TX",Savings
+TXN000073,2026-02-13,WALMART SUPERCENTER,-86.41,,Savings
+TXN000070,22/02/2026,Starbucks Store 14122,($11.78),,Savings
+TXN000061,2026-02-09,DOMINOS PIZZA,-$37.98,"Houston, TX",Savings
+TXN000063,08/02/2026,WALMART #4821,($122.21),,Checking
+TXN000054,27/02/2026,,-15.49,,Savings
+TXN000062,08/02/2026,SHELL GAS STATION,($69.91),"Dallas, TX",Checking
+TXN000058,22/02/2026,Lyft Ride,($35.01),,Checking
+TXN000065,01/02/2026,,-13.59,"Austin, TX",Savings
+TXN000055,06/02/2026,Electric Bill - Oncor,-$137.24,,Checking
+TXN000078,21/02/2026,SHELL GAS STATION,($64.51),"Dallas, TX",Checking
+TXN000046,"February 3, 2026",Best Buy,($411.56),,Savings
+TXN000071,"February 11, 2026",eBay Purchase,-$130.04,,Savings
+TXN000051,2026-02-22,Spotify USA,($9.99),,Checking
+TXN000057,14/02/2026,McDonald's,($5.84),"Dallas, TX",Checking
+TXN000047,07/02/2026,Amazon Prime Membership,-14.99,,Savings
+TXN000083,25/02/2026,Lyft Ride,($42.79),,Checking
+TXN000067,"February 20, 2026",Tax Refund,225.17,,Savings
+TXN000048,2026-02-15,Amazon Prime Membership,($14.99),,Checking
+TXN000075,"February 22, 2026",Kroger Grocery,-67.57,"San Antonio, TX",Savings
+TXN000081,"February 22, 2026",INTEREST PAYMENT,$4.94,,Savings
+TXN000049,2026-02-03,SHELL OIL 57444006200,-$60.35,,Checking
+TXN000080,"February 26, 2026",Interest Payment,$2.38,,Savings
+TXN000069,"February 12, 2026",AT&T PHONE BILL,-59.55,,Savings
+TXN000077,"February 2, 2026",Lyft Ride,($49.28),,Savings
+TXN000056,03/02/2026,,-15.64,"Austin, TX",Checking
+TXN000068,"February 1, 2026",Interest Payment,$4.64,,Checking
+TXN000063,"February 25, 2026",NETFLIX.COM,-15.49,,Savings
+TXN000066,02/02/2026,Starbucks Coffee #3421,($12.55),,Savings
+TXN000053,07/02/2026,ExxonMobil,-$47.80,"Houston, TX",Savings
+TXN000060,24/02/2026,Adobe Creative Cloud,-54.99,,Checking
+TXN000074,2026-02-15,Electric Bill - Oncor,($121.90),,Checking

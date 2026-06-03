@@ -1,0 +1,46 @@
+transaction_id,date,description,amount,location,account
+TXN000040,2026-01-29,TARGET  #0095  ,($23.93),"Austin, TX",Savings
+TXN000026,08/01/2026,Kroger Grocery,-37.85,"San Antonio, TX",Checking
+TXN000027,2026-01-05,PAYROLL DEPOSIT - ACME CORP,"$3,430.90",,Savings
+TXN000044,2026-01-02,Tax Refund,202.07,,Checking
+TXN000036,2026-01-02,eBay Purchase,-$135.16,,Checking
+TXN000042,2026-01-05,Shell Gas Station,-41.32,"Dallas, TX",Checking
+TXN000005,2026-01-15,Netflix.com,-15.49,,Savings
+TXN000013,"January 6, 2026",Internet - Spectrum,-61.37,,Checking
+TXN000009,"January 27, 2026",Amazon.com Purchase,-$206.30,,Checking
+TXN000004,"January 18, 2026",Shell Gas Station,($64.38),"Dallas, TX",Checking
+TXN000007,"January 4, 2026",,-$16.46,,Savings
+TXN000025,16/01/2026,WALMART #4821,-$29.02,"Dallas, TX",Checking
+TXN000033,"January 7, 2026",,($19.47),,Checking
+TXN000020,"January 13, 2026",Internet - Spectrum,-65.86,,Checking
+TXN000018,2026-01-08,McDonald's,-$15.19,"Dallas, TX",Checking
+TXN000014,2026-01-22,Amazon Prime Membership,-$14.99,,Savings
+TXN000043,"January 24, 2026",,-14.99,,Checking
+TXN000016,"January 21, 2026",ZELLE TRANSFER RECEIVED,209.90,,Checking
+TXN000010,2026-01-25,NETFLIX SUBSCRIPTION,($15.49),,Savings
+TXN000017,24/01/2026,Exxonmobil,($61.09),"Houston, TX",Savings
+TXN000038,"January 28, 2026",Whole Foods Market,-$105.33,"Houston, TX",Checking
+TXN000032,2026-01-28,ADOBE CREATIVE CLOUD,-54.99,,Savings
+TXN000028,"January 31, 2026",Shell Oil 57444006200,-$85.73,,Savings
+TXN000001,21/01/2026,STARBUCKS STORE 14122,-$3.79,"Austin, TX",Checking
+TXN000031,2026-01-01,Whole Foods Market,-$150.33,"Houston, TX",Checking
+TXN000030,"January 8, 2026",,-$87.47,"Houston, TX",Checking
+TXN000006,11/01/2026,Netflix.com,-$15.49,,Savings
+TXN000012,2026-01-23,Whole Foods Market,-133.55,,Checking
+TXN000034,2026-01-26,Payroll Deposit - ACME Corp,"$3,249.75",,Savings
+TXN000002,"January 24, 2026",Starbucks Coffee #3421,-13.64,"Dallas, TX",Savings
+TXN000040,"January 10, 2026",At&T Phone Bill,-100.28,,Savings
+TXN000022,"January 6, 2026",Internet - Spectrum,($50.09),,Checking
+TXN000003,2026-01-02,Walmart #4821,-25.93,"Dallas, TX",Checking
+TXN000035,"January 14, 2026",Best Buy,-306.86,,Checking
+TXN000024,"January 5, 2026",Amazon.Com Purchase,-$269.25,,Savings
+TXN000037,2026-01-18,ELECTRIC BILL - ONCOR,($79.63),,Checking
+TXN000011,15/01/2026,,-65.30,,Savings
+TXN000023,17/01/2026,Starbucks Coffee #3421,-16.25,"Dallas, TX",Checking
+TXN000019,21/01/2026,Dominos Pizza,-$38.14,"Houston, TX",Savings
+TXN000045,"January 13, 2026",STARBUCKS STORE 14122,-14.33,"Austin, TX",Checking
+TXN000021,22/01/2026,Netflix.com,($15.49),,Savings
+TXN000008,18/01/2026,STARBUCKS STORE 14122,-14.69,"Austin, TX",Savings
+TXN000015,"January 13, 2026",Netflix.Com,($15.49),,Checking
+TXN000029,"January 13, 2026",AMAZON.COM PURCHASE,-$158.95,,Checking
+TXN000039,03/01/2026,LYFT RIDE,-$12.48,,Savings
